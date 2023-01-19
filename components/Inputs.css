@@ -12,3 +12,8 @@
 .resfahrenheit{
     color: white;
 }
+
+.input{
+    border-radius: 5px;
+    box-shadow: 10px;
+}
